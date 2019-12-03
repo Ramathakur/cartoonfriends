@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cartoonfriends/static/css/main.0487444a.chunk.css",
+    "main.js": "/cartoonfriends/static/js/main.cc6fc8db.chunk.js",
+    "main.js.map": "/cartoonfriends/static/js/main.cc6fc8db.chunk.js.map",
+    "runtime-main.js": "/cartoonfriends/static/js/runtime-main.386219dc.js",
+    "runtime-main.js.map": "/cartoonfriends/static/js/runtime-main.386219dc.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/cartoonfriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.814c5b91.chunk.js": "/cartoonfriends/static/js/2.814c5b91.chunk.js",
+    "static/js/2.814c5b91.chunk.js.map": "/cartoonfriends/static/js/2.814c5b91.chunk.js.map",
+    "index.html": "/cartoonfriends/index.html",
+    "precache-manifest.1f1a33e983f825dfa2470532bd7bbd3b.js": "/cartoonfriends/precache-manifest.1f1a33e983f825dfa2470532bd7bbd3b.js",
+    "service-worker.js": "/cartoonfriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/cartoonfriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0487444a.chunk.css.map": "/cartoonfriends/static/css/main.0487444a.chunk.css.map",
+    "static/media/App.css": "/cartoonfriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.386219dc.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.814c5b91.chunk.js",
+    "static/css/main.0487444a.chunk.css",
+    "static/js/main.cc6fc8db.chunk.js"
+  ]
+}
